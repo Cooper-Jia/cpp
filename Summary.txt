@@ -1,0 +1,27 @@
+
+
+Chapter 1: Basics of C++
+(1)Structure of a program
+(2)Variables and types
+    #Identifiers
+        1. a sequence of one or more letters, digits or underscore characters.
+        2. in no case can they begin with a digit.
+        3. spcial compilers may have additional specific reserved key words.
+        4. cpp is a case sensitive language;
+    #Fundamental data types
+        1. Character types.
+        2. Numerical interger types.
+        3. Floating-point types.
+        4. Boolean type.
+    #Declaration of variables
+        1. every variable needs to be declared with its type before its fist use.
+    #Initialization of variables
+        1. initialize it from the same moment it is declared.
+        2. constructor initialization.
+        3. uniform initialization.
+    #Type deduction
+        1. auto
+        2. decltype()
+    #Introduction to strings
+        1. the program needs to include the header <string>.
+        2. as with fundamental types, all initialization formats are valid with strings.
